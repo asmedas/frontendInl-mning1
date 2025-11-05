@@ -43,7 +43,6 @@ input[type="checkbox"] {
 
 .returnRow {
     display: flex;
-    align-items: flex-start;
 }
 
 .bi-rocket-takeoff-fill{
