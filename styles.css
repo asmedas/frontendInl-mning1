@@ -37,14 +37,12 @@ input[type="checkbox"] {
 
 .titleRow {
     display: flex;
-    align-items: center;
     margin-top: 50px;
     gap: 8px;
 }
 
 .returnRow {
     display: flex;
-    align-items: center;
     align-items: flex-start;
 }
 
